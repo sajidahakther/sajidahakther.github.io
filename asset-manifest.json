@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34b37f9f.chunk.css",
+    "main.js": "/static/js/main.5015ebcb.chunk.js",
+    "main.js.map": "/static/js/main.5015ebcb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.705dec9d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.705dec9d.js.map",
+    "static/css/2.22d6b5ec.chunk.css": "/static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.6650cdf2.chunk.js": "/static/js/2.6650cdf2.chunk.js",
+    "static/js/2.6650cdf2.chunk.js.map": "/static/js/2.6650cdf2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d9dbdbff203127644ce3a2f25f177fd3.js": "/precache-manifest.d9dbdbff203127644ce3a2f25f177fd3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22d6b5ec.chunk.css.map": "/static/css/2.22d6b5ec.chunk.css.map",
+    "static/css/main.34b37f9f.chunk.css.map": "/static/css/main.34b37f9f.chunk.css.map",
+    "static/js/2.6650cdf2.chunk.js.LICENSE.txt": "/static/js/2.6650cdf2.chunk.js.LICENSE.txt",
+    "static/media/projects.sass": "/static/media/Canela-Light.3d6dd91c.woff",
+    "static/media/accordion.sass": "/static/media/arrow.0249a3df.svg",
+    "static/media/mobile-close.svg": "/static/media/mobile-close.2612b99f.svg",
+    "static/media/mobile-menu.svg": "/static/media/mobile-menu.39c559bf.svg",
+    "static/media/preview.png": "/static/media/preview.d0fae49a.png",
+    "static/media/preview.gif": "/static/media/preview.77782019.gif",
+    "static/media/star.svg": "/static/media/star.ced8365e.svg",
+    "static/media/up-arrow.svg": "/static/media/up-arrow.76ae7503.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.705dec9d.js",
+    "static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.6650cdf2.chunk.js",
+    "static/css/main.34b37f9f.chunk.css",
+    "static/js/main.5015ebcb.chunk.js"
+  ]
+}
